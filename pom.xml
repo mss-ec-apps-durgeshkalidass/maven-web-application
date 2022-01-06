@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Facebook</name>
-	      <url>http://3.108.249.111:8081/repository/Facebook/</url>
+	      <url>http://172.31.14.99:8081/repository/Facebook/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Facebook_Snap</name>
-	      <url>http://3.108.249.111:8081/repository/Facebook_Snap/</url>
+	      <url>http://172.31.14.99:8081/repository/Facebook_Snap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
